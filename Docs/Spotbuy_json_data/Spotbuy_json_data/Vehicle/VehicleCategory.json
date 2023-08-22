@@ -1,0 +1,14 @@
+[
+    {
+        "category_id": 1,
+        "name": "Car",
+        "status": true,
+        "image": "xxx"
+    },
+    {
+        "category_id": 2,
+        "name": "Bike",
+        "status": true,
+        "image": "xxx"
+    }
+]

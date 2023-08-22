@@ -1,0 +1,16 @@
+[
+    {
+        "state_id": 1,
+        "country_id": 1,
+        "city_id": 1,
+        "name": "Bhopal",
+        "status": true
+    },
+    {
+        "state_id": 1,
+        "country_id": 1,
+        "city_id": 2,
+        "name": "Indore",
+        "status": true
+    }
+]

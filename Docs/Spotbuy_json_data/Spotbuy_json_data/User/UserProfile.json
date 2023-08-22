@@ -1,0 +1,19 @@
+[
+    {
+        "user_id": 1,
+        "name": "shubham singh",
+        "username": "shubhamcreation",
+        "mobile": 9074644022,
+        "alternate_mobile": 9900990099,
+        "datetime": "10 May 2023 09:10:11",
+        "email": "shubham@gmail.com",
+        "gender": "male",
+        "age": 28,
+        "status": true,
+        "image": "xxx",
+        "availablePost": 50,
+        "followers": ["1","2","3"],
+        "following": ["2","45","22"],
+        "address": {"city":"bhopal","state":"madhya pradesh"}
+    }
+]

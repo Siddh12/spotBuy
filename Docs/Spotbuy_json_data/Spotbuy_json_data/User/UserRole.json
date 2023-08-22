@@ -1,0 +1,17 @@
+[
+    {
+        "role_id": 1,
+        "role_name": "customer",
+        "status": true
+    },
+    {
+        "role_id": 2,
+        "role_name": "admin",
+        "status": true
+    },
+    {
+        "role_id":3,
+        "role_name": "vender",
+        "status": true
+    }
+]
